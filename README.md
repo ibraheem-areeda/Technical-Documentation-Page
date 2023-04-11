@@ -16,4 +16,4 @@ This is one of the required projects to earn your certification.
 For this project, you will build a technical documentation page to serve as instruction or reference for a topic.
 
 link to the deployed version:
-[https://ibraheem-areeda.github.io/Tribute-Page/](https://ibraheem-areeda.github.io/Tribute-Page/)
+[https://ibraheem-areeda.github.io/Technical-Documentation-Page/](https://ibraheem-areeda.github.io/Technical-Documentation-Page/)
