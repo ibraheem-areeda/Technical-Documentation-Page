@@ -9,7 +9,7 @@ Finally, you'll learn how to make webpages that respond to different screen size
 
 
 
-# Tribute-Page project 
+# Technical-Documentation project 
 
 This is one of the required projects to earn your certification.
 
